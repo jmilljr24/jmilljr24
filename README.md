@@ -1,4 +1,5 @@
-### Hi there 👋
+## Justin Miller
+### The Intersection of Tech, Diving, and Flight
 
 <!--
 **jmilljr24/jmilljr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
